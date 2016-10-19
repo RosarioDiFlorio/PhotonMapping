@@ -6,6 +6,6 @@ Input 3D Scene <br>
 <br>Output of our PhotonMapping code<br>
 ![alt tag](http://imgur.com/CcbjTJV.png)
 
-made with Steven Rosario Sirchia, Vincenzo Venosi, Rosario di Florio
+made with Steven Rosario Sirchia, Vincenzo Venosi, Luigi Giugliano
 
 1st year of master (2014/2015)
